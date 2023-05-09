@@ -1,6 +1,7 @@
-Hi 👋
+### Hey there 👋
+## Web Developer
 
-I’m currently self learning web development, in the future planning to learn app dev 	🤗
+Hey, I’m currently self learning **web development**, in the future planning to learn app dev 	🤗
 
 💖 If you would like to support me, you can donate on my pateron [tip](https://www.patreon.com/AneliaWagner)
 
